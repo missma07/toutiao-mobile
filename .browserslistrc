@@ -1,3 +1,12 @@
-> 1%
-last 2 versions
-not dead
+# 指定了浏览器兼容的范围
+
+# 兼容到超过百分之一的用户使用的浏览器 
+# > 1%
+
+# 兼容到浏览器最后的两个版本
+# last 2 versions
+
+# not dead
+
+Android >= 4.0
+iOS >= 8
